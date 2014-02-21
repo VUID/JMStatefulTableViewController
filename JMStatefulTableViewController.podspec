@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
 
   s.source_files = ['JMStatefulTableViewController/*.*']
 
-  s.dependency 'SVPullToRefresh', :git => 'https://github.com/VUID/SVPullToRefresh', :branch => 'master' 
+  s.dependency 'SVPullToRefresh' 
 end
